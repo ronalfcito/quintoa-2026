@@ -1,3 +1,3 @@
 def test_hola():
-    mensaje = "Hola  desde git"
+    mensaje = "Buscar en esta cadena la palabra Hola"
     assert "Hola" in mensaje
